@@ -17,3 +17,6 @@ __pycache__/
 
 # 敏感配置
 lark-cli 配置由用户自行管理
+
+# 本地版 skill（含个人隐私信息，不上传）
+.claude/skills/meeting-extract.local.md
